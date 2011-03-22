@@ -7,4 +7,8 @@ Foot2Side
 
     #side>#footnoteContainer>ol>li#note-<n>>div
 
+#### Demo ####
+
+http://metaphox.name/alpha/sidenotes/
+
 Read the source, Luke.
