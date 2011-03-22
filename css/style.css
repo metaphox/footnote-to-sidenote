@@ -9,7 +9,7 @@ Last edited: March 22, 2011, 5:13 am
 /*  Main  */
 body {
   font-family: Palatino, Georgia, serif;
-  line-height: 18px;
+  line-height: 20px;
   padding-top: 20px;
   background: #ffe; }
 
@@ -19,8 +19,12 @@ sup {
   line-height: 1;
   position: relative;
   top: -0.6em;
-  vertical-align: baseline;
-  color: red; }
+  vertical-align: baseline; }
+  sup a {
+    color: #a00;
+    text-decoration: none; }
+    sup a:hover {
+      color: #f00; }
 
 #wrapper {
   margin: 0 auto;
