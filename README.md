@@ -9,6 +9,6 @@ Foot2Side
 
 #### Demo ####
 
-http://metaphox.name/alpha/sidenotes/
+http://www.typeisbeautiful.com/kinkido-2
 
 Read the source, Luke.
